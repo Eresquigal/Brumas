@@ -1,0 +1,3 @@
+Este repositorio e usado pelo Portal BrumasRPG como diretorio de imagens.
+Este arquivo confirma que o token configurado consegue gravar aqui.
+Ultima verificacao: 2026-11-07T18:26:34.894Z
